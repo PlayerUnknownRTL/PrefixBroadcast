@@ -1,0 +1,12 @@
+name: PrefixBroadcast
+version: '${project.version}'
+main: me.lumia.prefixBroadcast
+api-version: '1.21'
+prefix: LumiaPB
+load: STARTUP
+authors: [LUMIA]
+description: Глобальные сообщения с кастомным префиксом.
+commands:
+  pb:
+    permission: prefixbroad.admin
+    permission-message: У вас нет прав, к данному действию.
