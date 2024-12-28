@@ -1,6 +1,0 @@
-Messages:
-  errorLenght: "&7Слишком мало аргументов! Пример использования: /pb all [LUMIA] Привет! Людей на сервере %player_online%"
-  messageReload: "&7Плагин успешно перезагружен."
-
-Settings:
-  onlyBlock: 10
